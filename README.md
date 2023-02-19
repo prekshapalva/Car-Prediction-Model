@@ -20,8 +20,13 @@ Python and Machine learning knowledge
 The results of the tests for “Car Price Prediction Model” were quantified in the
 following terms:
 1. Linear regression : A linear regression model is a conditional model in which the output variable is a linear function of the input variables and of an unobservable error term that adds noise to the relationship between inputs and outputs. The output is as follows:
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width=210>
+<p align="center">
+  <img src="https://github.com/prekshapalva/Car_prediction_model/blob/742ffda3f8e7bb5432b00372946d8de000508616/Output_1.png"> 
+</p>
 2. Lasso regression : Lasso regression performs L1 regularization, which adds a penalty equal to the absolute value of the magnitude of coefficients. This type of regularization can result in sparse models with few coefficients; Some coefficients can become zero and eliminated from the model. The output is as follows:
+<p align="center">
+  <img src="https://github.com/prekshapalva/Car_prediction_model/blob/742ffda3f8e7bb5432b00372946d8de000508616/Output_2.png">
+</p>
 
 ### :five: Conclusion
 This project is built using data mining and machine learning approaches. It proposes a scalable framework for cars price prediction along with an efficient machine learning model built by training, testing, and evaluating two ML regressors. Thank you!
